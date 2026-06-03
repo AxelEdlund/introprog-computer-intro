@@ -1,7 +1,17 @@
 # introprog-computer-intro
 
-Course material for the *Computer Introduction* module in the introductory programming course, or in Swedish "Datorer och datoranvändning" (*dod*).
+**DEPRECATED**
 
-NOTE: The files in `lab-instructions` are moved to https://github.com/lunduniversity/introprog
+NOTE: 
 
-EVENTUALLY (hopefully before august 2026) this repo will be DEPRECATED when we manage to move everything into [introprog](https://github.com/lunduniversity/introprog).
+* The files in `lab-instructions` are moved to https://github.com/lunduniversity/introprog under compendium
+
+* The files in `dod-lab-material` are moved to https://github.com/lunduniversity/introprog under compendium under workspace
+
+This repo includes OLD course material for the *Computer Introduction* module in the introductory programming course, or in Swedish "Datorer och datoranvändning" (*dod*).
+
+This material was forked and merged into the introprog main repo.
+
+TODO:
+
+**Check that all uploaded stuff to fileadmin etc also are moved and that no old links to this repo are present on homepages or in the compendium.**
